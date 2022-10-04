@@ -7,3 +7,6 @@ console.log(result2)
 
 const result3 = array.filter(a => a > 6)
 console.log(result3)
+
+const square = array.map(number => number * number)
+console.log(square)
