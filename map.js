@@ -11,4 +11,8 @@ const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // const square = array.map(number => number * number)
 // console.log(square)
 const d = new Date();
-console.log(d)
+// console.log(d)
+const b = Math.random() * 10
+const a = Math.round(b);
+console.log(b)
+console.log(a)
